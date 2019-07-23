@@ -19,7 +19,7 @@ typedef struct MS1 {
 	int i;
 }SP;
 
-
+//无用的注释
 struct edge {
 	int u;//边的起点
 	int v;//边的终点
