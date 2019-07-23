@@ -53,6 +53,7 @@ void DispMat(MatGraph g)
 		printf("\n");
 	}
 }
+//×¢ÊÍtest
 void Dijkstra(MatGraph g, int v,int m)	//DijkstraËã·¨
 {
 	int dist[MAXV], path[MAXV];
